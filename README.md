@@ -1,19 +1,8 @@
 # Tugas Membuat Aplikasi Kasir 
 
-### Nama    : Kurnia Cahya Febryanto
-### NRP     : 5025201073
+### Nama    : Farrel Emerson
+### NRP     : 5025201082
 ### Kelas   : Pemrograman Berbasis Kerangka Kerja B
-
-================================================
-
-## Deskripsi Tugas
-
-Membuat aplikasi desktop kasir dengan menggunakan bahasa pemrograman C# dan .NET Framework. Aplikasi kasir yang dibuat harus melingkupi:
-1. Input data Barang
-2. Transaksi Penjualan
-3. Pencetakan bukti bayar
-
-<br/>
 
 Berikut tampilan dari aplikasi yang telah dibuat
 
